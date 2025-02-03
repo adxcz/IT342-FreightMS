@@ -12,6 +12,3 @@ Actively cooperates with others and contributes valuable ideas during discussion
 While effective in group settings, they perform best when coding independently, allowing for deeper focus. 
 Known as a night owl, they thrive in late-night work sessions when their productivity is at its peak. 
 Their versatility enables them to adapt to various tasks and responsibilities within the team.
-
-
-
