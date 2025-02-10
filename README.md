@@ -42,8 +42,8 @@ FreightMS is a comprehensive system designed to streamline cargo management, ves
 
 # Developers Profile
 
-## Name:
-**Nap Adriel B. Derecho**
+## Name: **Nap Adriel B. Derecho**
+
 
 ## Course & Year:
 **BSIT-3**
@@ -52,8 +52,8 @@ FreightMS is a comprehensive system designed to streamline cargo management, ves
 A diligent team member who consistently follows instructions and meets expectations. Actively cooperates with others and contributes valuable ideas during discussions. While effective in group settings, they perform best when coding independently, allowing for deeper focus. Known as a night owl, they thrive in late-night work sessions when their productivity is at its peak. Their versatility enables them to adapt to various tasks and responsibilities within the team.
 
 
-## Name:
-**Paulo-Matthew Bacolod**
+## Name: **Paulo-Matthew Bacolod**
+
 
 ## Course & Year:
 **BSIT-3**
